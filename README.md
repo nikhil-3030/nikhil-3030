@@ -1,5 +1,7 @@
-Hi, I'm Nikhil 👋
-I'm a passionate web developer with a focus on creating Python-based products. With a keen eye for detail and a drive for excellence, I enjoy solving complex problems and delivering high-quality solutions.
+Paila Nikhil
+I'm a versatile full-stack developer with a deep focus on testing and DevOps. My passion lies in building and optimizing scalable web applications while ensuring robust backend functionality through comprehensive testing and automation.
+
+
 
 
 
